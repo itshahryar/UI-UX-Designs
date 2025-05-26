@@ -37,9 +37,19 @@ You can explore my work in this repo — each design is the result of practice, 
 
 > Here are some elegant demos and sample designs showcasing my UI work.  
 > More screenshots and interactive previews will be added soon to provide a better glimpse of the user experience.
+
+MoodBoard:
+![moodboard](https://github.com/user-attachments/assets/a5d2f3db-113f-4fa9-9c7e-7aeb23a466b3)
+Screens:
 ![cart](https://github.com/user-attachments/assets/1608ab6c-0bac-4cd0-a560-87edfecf75f8)
 ![dashboard](https://github.com/user-attachments/assets/2b93dcac-db4d-4d28-aa00-75e1b189267b)
-
+![Disease Management](https://github.com/user-attachments/assets/5abb5e81-9bcf-40ac-8f7e-f31dfec524e9)
+![getstarted](https://github.com/user-attachments/assets/dc8c5108-38e4-4621-9b0a-a1159946296b)
+![How to prepare](https://github.com/user-attachments/assets/1658757d-c9ce-4f88-96ad-aa16e402b3cd)
+![kitchen](https://github.com/user-attachments/assets/c8535d0f-bfd3-485a-8bdc-1f813f460228)
+![meals](https://github.com/user-attachments/assets/9dc55611-4769-413b-87f8-bbeedaab2631)
+![reminder](https://github.com/user-attachments/assets/6a0a885e-00ee-4b49-9524-0c38b48f3d04)
+![sidebar](https://github.com/user-attachments/assets/8feb3a1a-e247-4148-9c20-1833c87c653c)
 
 ---
 
