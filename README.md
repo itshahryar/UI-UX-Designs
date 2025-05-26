@@ -10,16 +10,15 @@ These interfaces reflect my passion for building clean, functional, and user-fri
 
 I build full-stack web solutions using the **MERN stack** and **Next.js**, with seamless integration of AI technologies to enhance functionality and user experience.
 
-Although While I’m still growing and refining my design skills,  
-I bring a lot of passion, hard work, and dedication to every UI I create. I am a **hardworking and committed developer** who takes pride in continuous learning and creating meaningful UI experiences.  
+Although While I’m still growing and refining my design skills, I bring a lot of passion, hard work, and dedication to every UI I create.
+I am a **hardworking and committed developer** who takes pride in continuous learning and creating meaningful UI experiences.  
 You can explore my work in this repo — each design is the result of practice, exploration, and a deep interest in frontend design.
 
 ---
 
 ## ✨ Key Features
 
-- 🔹 Clean and intuitive user interface designs  
-- 🔹 Responsive layouts for seamless user experience  
+- 🔹 Clean and intuitive user interface designs
 - 🔹 Thoughtfully crafted form components  
 - 🔹 Reusable and customizable UI elements  
 - 🔹 Conceptual designs inspired by real-world applications
