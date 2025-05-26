@@ -1,4 +1,4 @@
-# 🎨 UI Designs – University Projects
+# 🎨 UI Designs Portfolio
 
 Welcome to my personal collection of **UI design projects** created during my academic journey at **COMSATS University Islamabad**.
 
@@ -33,9 +33,13 @@ You can explore my work in this repo — each design is the result of practice, 
 
 ---
 
-## 📷 Previews
+## 📷 Previews / Demos
 
-> Screenshots or demos will be added soon!
+> Here are some elegant demos and sample designs showcasing my UI work.  
+> More screenshots and interactive previews will be added soon to provide a better glimpse of the user experience.
+![cart](https://github.com/user-attachments/assets/1608ab6c-0bac-4cd0-a560-87edfecf75f8)
+![dashboard](https://github.com/user-attachments/assets/2b93dcac-db4d-4d28-aa00-75e1b189267b)
+
 
 ---
 
